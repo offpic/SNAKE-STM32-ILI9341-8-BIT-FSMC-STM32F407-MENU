@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=hpFkJPyNicM
 +++++++++++++PD11 - PD9 - PB15-PB13 +++++++++++++ RIGHT - LEFT - UP - DOWN+++++++++++++
 
 PA0 => Left or Down color
+
 PA1 => Right or Up color
+
 PA4 => Confirm button
 
 ![SNAKE STM32 ILI9341 8 BIT FSMC STM32F407 MENU](https://github.com/offpic/SNAKE-STM32-ILI9341-8-BIT-FSMC-STM32F407-MENU/assets/31142397/72ab8bde-62e2-4bb0-86be-cc70d27df691)
